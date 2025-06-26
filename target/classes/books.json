@@ -1,0 +1,18 @@
+[
+	{
+		"isAvailable": true,
+		"author": "T. Albert",
+		"pdfPath": "/pdfs/HIDE_AND_SEEK.pdf",
+		"imageUrl": "/images/HIDE_AND_SEEK.jpg",
+		"id": "book-001",
+		"title": "HIDE AND SEEK"
+	},
+	{
+		"isAvailable": true,
+		"author": "T. Albert",
+		"pdfPath": "/pdfs/Ginger_The_Giraffe.pdf",
+		"imageUrl": "/images/Ginger_The_Giraffe.jpg",
+		"id": "book-001",
+		"title": "Ginger The Giraffe"
+	}
+]

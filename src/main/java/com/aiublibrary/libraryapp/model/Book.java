@@ -1,7 +1,5 @@
 package com.aiublibrary.libraryapp.model;
 
-import javax.swing.ImageIcon;
-
 public class Book {
     private String id;
     private String title;
